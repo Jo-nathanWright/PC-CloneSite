@@ -1,0 +1,17 @@
+body {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  scroll-behavior: smooth;
+}
+
+.bkgnd{
+    min-height: 60vh;
+    background-image: url(Train.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.trainBar{
+    padding-top: 10px;
+}
